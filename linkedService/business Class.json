@@ -1,0 +1,12 @@
+{
+	"name": "business Class",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://github.com/aatiw/flight-report-analysis/blob/main/business.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
