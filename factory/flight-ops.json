@@ -1,0 +1,9 @@
+{
+	"name": "flight-ops",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0bb91f9b-a739-4572-8823-4cc779bb42a4",
+		"tenantId": "702c8df7-5670-48f3-babc-3053e78a82f9"
+	}
+}
